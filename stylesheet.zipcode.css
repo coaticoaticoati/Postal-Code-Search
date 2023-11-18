@@ -1,0 +1,45 @@
+.container {
+    width: 70%;
+    padding: 0 15px;
+    margin: 0 auto;
+  }  
+
+.search {
+    text-align: center;
+    padding-top: 90px;
+    height: 500px;
+    border-bottom:1px solid #dbd9d9;
+}
+
+.search-form {
+    padding-top: 10px;
+}
+.textbox {
+    width: 150px; 
+    height: 30px;
+    font-size: 20px;
+}
+
+.search-btn {
+    padding-top: 25px;
+
+}
+
+button {
+    border: none; /* 枠線消す */
+    background-color: #ebe6e6fb;
+    border-radius: 100vh;
+    font-size: 15px;
+    padding: 8px 12px;
+}
+
+.zipcode {
+    text-align: center;
+    padding-top: 90px;
+    border-bottom:1px solid #dbd9d9;
+}
+
+.error {
+    padding-top: 20px;
+    padding-bottom: 450px;
+}
