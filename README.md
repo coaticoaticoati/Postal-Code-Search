@@ -7,7 +7,7 @@
 プログラミングの基礎学習を終えた後、次のステップを考えるなかで、実践的な開発スキルを身につけることが必要だと感じ、その最初の一歩として、簡単なアプリケーションを制作することにしました。
 
 ## アプリケーションのイメージ
-![postalcodesearch1](https://github.com/coaticoaticoati/PostalCodeSearch/assets/150308090/586d02cd-558b-4cf5-8719-1820caaa3e13)
+<img src="https://github.com/coaticoaticoati/PostalCodeSearch/assets/150308090/ef3d164f-4c90-478a-ab67-724f9545ad66" width="90%">
 
 ## 使用技術
 HTML  
@@ -20,7 +20,8 @@ MariaDB
 ## 工夫したところ
 一つの郵便番号に一つの住所が割り当てられているケースだけでなく、一つの郵便番号に複数の住所が割り当てられているケースにも対応させた点です。  
 郵便番号に紐づく全ての住所をデータベースからもれなく抽出し、検索結果として表示するように実装しました。
-![postalcodesearch1](https://github.com/coaticoaticoati/PostalCodeSearch/assets/150308090/e105f129-dd7c-4c02-bd04-9438938716d2)
+<img src="https://github.com/coaticoaticoati/PostalCodeSearch/assets/150308090/8daaad0e-ce83-45dc-b400-d6ae0891b7da" width="70%">
+
 
 ## 苦労したところ
 
