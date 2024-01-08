@@ -2,7 +2,7 @@
 郵便番号から住所を検索できるサービスです。フォームに郵便番号を入力し、送信するだけで、日本全国の住所情報を取得できます。
 
 ## アプリケーションのイメージ
-![プレゼンテーション3](https://github.com/coaticoaticoati/PostalCodeSearch/assets/150308090/66af2de1-ad8a-4b78-b997-b56585bca5fa)
+![プレゼンテーション4](https://github.com/coaticoaticoati/PostalCodeSearch/assets/150308090/53e66e5a-903c-44dd-8a2c-fd79a6800c2a)
 
 ## URL
 
