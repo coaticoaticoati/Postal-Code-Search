@@ -12,11 +12,8 @@ https://ss1.xrea.com/coaticoaticoati95142.s239.xrea.com/postalcodesearch/
 ## アプリケーションのイメージ
 ![アプリケーションのイメージ](https://github.com/coaticoaticoati/PostalCodeSearch/assets/150308090/8a5b04b9-7474-458e-9d10-8a011b0e7b77)
 ## 使用技術
-#### フロントエンド
 HTML&CSS  
-#### バックエンド
 PHP  
-#### データベース
 MariaDB
 
 ## アプリケーションの特徴
